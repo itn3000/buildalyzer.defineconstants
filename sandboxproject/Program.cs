@@ -5,7 +5,7 @@ namespace sandboxproject
     #if DEF1
     public class X1
     {
-        // this should be included 
+        // this should be included because DEF1 defined in csproj
     }
     #endif
     #if DEF2
